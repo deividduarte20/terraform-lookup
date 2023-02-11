@@ -1,3 +1,25 @@
+## O Projeto consiste em provisionar um bucket utilizando a função lookup
+
+## A função lookup() pode ser usada para pesquisar um valor específico dentro de um map
+```bash
+lookup(map, key, default)
+```
+
+## Baixe o projeto
+```bash
+git clone https://github.com/deividduarte20/lambda_stop_start_ec2_tf.git
+```
+
+## Inicie o terraform
+```
+terraform init
+```
+
+## Aplique a infra como código
+```bash
+terraform apply
+```
+
 ## Requirements
 
 | Name | Version |
