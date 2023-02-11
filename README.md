@@ -43,7 +43,7 @@ terraform apply
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_nbucket"></a> [nbucket](#input\_nbucket) | Name bucket with lookup function | `map(any)` | <pre>{<br>  "nome": "dduarte3023",<br>  "nome2": "nome_do_seu_bucket"<br>}</pre> | no |
+| <a name="input_nbucket"></a> [nbucket](#input\_nbucket) | Name bucket with lookup function | `map(any)` | <pre>{<br>  "nome": "nome_seu_bucket1",<br>  "nome2": "nome_do_seu_bucket2"<br>}</pre> | no |
 
 ## Outputs
 
